@@ -1,0 +1,42 @@
+
+
+body {
+   width: 480px;
+}
+
+@media screen and (max-width: 430px) {
+   
+   #para {
+      padding: 0 2rem;
+      font-size: 1.3rem;
+   }
+
+   #insured {
+      left: 270px;
+   }
+
+   #big {
+      margin-top: 10px;
+   }
+   
+   #join {
+      font-size: 1.5rem;
+   }
+
+   .second li {
+      padding: 25px 5px;
+   }
+
+   footer {
+      height: 50rem;
+   }
+
+   .plus img {
+      width: 1rem;
+   }
+
+   table {
+      border-bottom: none;
+   }
+   
+}

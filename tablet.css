@@ -1,0 +1,605 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+html {
+  font-size: 62.5%;
+}
+
+
+@media screen and (max-width: 1024px) {
+
+   .first li{
+    float: left;
+    padding: 2rem 1rem;
+   }
+
+   .first li:hover {
+    border-bottom: none;
+   }
+
+   .first{
+    position: relative;
+    height: 5rem;
+   }
+
+   #palmpay{
+    padding-top: 1.3rem;
+    padding-left: 7rem;
+    padding-right: 4rem;
+   }
+
+   #pricing{
+    margin-right: 0.1rem;
+   }
+
+   #button{
+    padding-top: 1.2rem;
+   }
+
+   header{
+    height: 40rem;
+   }
+
+   header h3{
+    padding-top: 3rem;
+   }
+
+   #para {
+    font-size: 15px;
+    padding-top: 0.1rem;
+   }
+
+   #licensed{
+    left: 30rem;
+    bottom: 10.5rem;
+   }
+
+   #bank {
+   left: 155px;
+   }
+
+   #insured{
+    left: 60rem;
+    bottom: 10.5rem;
+   }
+
+   #ndic {
+    left: 120px;
+    width: 60px;
+   }
+
+   #big{
+    width: 40rem;
+    margin-top: 2rem;
+   }
+
+   #more{
+    padding-top: 12rem;
+   }
+
+   #more2{
+    font-size: 12px;
+   }
+
+   #earn2 {
+    font-size: 12px;
+   }
+
+   #paybills{
+      width: 40rem;
+   }
+
+   #earn{
+    padding-top: 3rem;
+   }
+
+   #coupons{
+     width: 40rem;
+   }
+
+   .container{
+    height: 80rem;
+   }
+
+   .container-1{
+      height: 70rem;
+      position: relative;
+   }
+
+   #dcf{
+      width: 49rem;
+      height: 48rem;
+   }
+
+   .three{
+    left: 1rem;
+   }
+
+   .two{
+    width: 40rem;
+    right: 1rem;
+    height: 43rem;
+    padding-top: 50px;
+   }
+
+   #your{
+    font-size: 3rem;
+   }
+
+   #your2{
+    font-size: 1.5rem;
+   }
+
+   .container-2{
+    height: 70rem;
+    position: relative;
+   }
+
+   .five{
+    width: 40rem;
+    height: 41rem;
+    left: 1rem;
+    padding-top: 7rem;
+   }
+
+   #happy{
+    font-size: 3rem;
+   }
+
+   #happy2{
+    font-size: 1.5rem;
+   }
+
+   #adf{
+      width: 49rem;
+      height: 48rem;
+   }
+
+   .four{
+     right: 1rem;
+   }
+
+   .second{
+    height: 7rem;
+    float: left;
+    width: 100%;
+   }
+
+   .second li{
+     padding-top: 2rem 0.1rem;
+     font-size: 1rem;
+   }
+
+   #join{
+    margin-left: 10rem;
+    font-size: 1rem;
+   }
+
+   #million{
+     font-size: 1.5rem;
+   }
+
+   #users{
+    margin-right: 0;
+    padding-top: 2.3rem;
+   }
+
+  #trans{
+    width: 8rem;
+  }   
+
+  #oneli{
+    width: 8rem;
+  }
+
+  footer{
+    height: 45rem;
+  }
+
+  table{
+    border-bottom: 1px solid white;
+    width: 100%;
+    opacity: 0.7;
+    padding-left: 3rem;
+  }
+
+  th{
+    padding: 40px 10px;
+    font-size: 2rem;
+    text-align: left;
+  }
+
+  #pay{
+    padding-left: 0;
+    padding-top: 3rem;
+    width: 150px;
+  }
+
+  #light{
+    width: 8rem;
+  }
+
+  td{
+    padding: 5px 10px;
+    font-size: 1.5rem;
+    text-align: left;
+  }
+
+  #central, #pci, #bdc, #dpc{
+    width: 5rem;
+  }
+
+  #copy {
+    padding: 10px;
+  }
+
+}
+
+
+@media screen and (max-width: 912px) {
+  
+  #palmpay{
+    padding-top: 1.3rem;
+    padding-left: 2rem;
+    padding-right: 3rem;
+   }
+
+   header {
+    padding-top: 100px;
+   }
+
+   #licensed{
+    left: 20rem;
+    top: 39rem;
+   }
+
+   #insured{
+    left: 55rem;
+    top: 39rem;
+   }
+
+   #bank {
+      bottom: -10px;
+   }
+
+   #ndic {
+    bottom: -11px;
+  }
+
+  #big {
+    margin-top: 3rem;
+  }
+
+  .two{
+    width: 35rem;
+    right: 2rem;
+    height: 43rem;
+    padding-top: 50px;
+   }
+
+   #your{
+    font-size: 2rem;
+   }
+
+   #dcf{
+    width: 40rem;
+    height: 48rem;
+  }
+
+ .three {
+  left: 2rem;
+  }
+
+ #happy {
+  font-size: 2rem;
+  }
+
+ .five{
+  width: 31rem;
+  height: 41rem;
+  left: 2rem;
+  padding-top: 7rem;
+  }
+
+ #adf{
+  width: 42rem;
+  height: 48rem;
+}
+
+.four {
+  right: 3rem;
+}
+
+}
+
+
+@media screen and (max-width: 853px) {
+  
+  #palmpay{
+    padding-top: 1.3rem;
+    padding-left: 1rem;
+    padding-right: 0;
+   }
+
+   #earn {
+     font-size: 4rem;
+   }
+
+   #dcf{
+    width: 37rem;
+    height: 48rem;
+  }
+
+  .two {
+    width: 30rem;
+  }
+
+  .five {
+    width: 28rem;
+  }
+
+  #adf {
+    width: 38rem;
+  }
+
+  footer{
+    height: 52rem;
+  }
+
+  #pay {
+    padding-top: 4rem;
+  }
+
+}
+
+@media screen and (max-width: 820px) {
+  
+  .first li{
+    padding: 30px 5px;
+  }
+
+  #palmpay{
+    width: 4rem;
+    padding-top: 1.7rem;
+    padding-left: 1rem;
+    padding-right: 11rem;
+   }
+
+   #pricing {
+    margin-right: 0;
+   }
+
+   #bank {
+    bottom: -10px;
+   }
+
+   #ndic {
+    bottom: -11px;
+   }
+
+   footer {
+    height: 57rem;
+   }
+
+   #pay {
+    padding-top: 5rem;
+   }
+
+   #dcf{
+    width: 37rem;
+    height: 48rem;
+  }
+
+  .two {
+    width: 27rem;
+  }
+
+  .five {
+    width: 28rem;
+  }
+
+  #adf {
+    width: 35rem;
+  }
+
+  .plus img {
+    width: 1.5rem;
+ }
+
+}
+
+
+@media screen and (max-width: 768px) {
+  
+  .first li{
+    font-size: 13px;
+    padding: 30px 5px;
+  }
+
+  #palmpay{
+    width: 4rem;
+    padding-top: 1.7rem;
+    padding-left: 1rem;
+    padding-right: 12rem;
+  }
+
+   #pricing {
+    margin-right: 2rem;
+  }
+
+   #insured {
+    left: 45rem;
+  }
+
+   #para {
+      font-size: 14px;
+   }
+
+   #dcf {
+     width: 35rem;
+   }
+
+   .two {
+     width: 26rem;
+   }
+
+   #adf {
+      width: 35rem;
+   }
+
+   .five {
+      width: 25rem;
+   }
+
+}
+
+
+@media screen and (max-width: 540px) {
+
+   .first li {
+    padding-top: 1rem;
+    padding-left: 1rem;
+    float: none;
+  }
+
+  .first{
+   position: relative;
+   height: 30rem;
+  }
+
+   #palmpay{
+   padding-left: 1rem;
+   }
+
+   #pricing {
+    padding-left: 1.5rem;
+   }
+
+   header h3{
+    font-size: 2.5rem;    
+   }
+
+   header {
+    height: 40rem;
+    padding-top: 150px;
+   }
+
+   #para {
+    font-size: 10px;
+  }
+
+  #licensed {
+     left: 50px;
+  }
+
+  #bank{
+    bottom: 30px;
+    left: 150px;
+  }
+
+  #insured {
+    left: 300px;
+  }
+
+  #ndic {
+    bottom: 35px;
+  }
+
+  #big {
+    margin-top: 50px;
+  }
+
+  #more {
+    font-size: 3rem;
+  }
+
+  #earn {
+    font-size: 3rem;
+  }
+
+  #earn2 {
+    font-size: 1rem;
+  }
+
+  .container-1 {
+    height: 120rem;
+  }
+
+   #dcf {
+    width: 40rem;
+  }
+
+  .three {
+    top: 70rem;
+    left: 5rem;
+  }
+
+  .two {
+     top: 10rem;
+     width: 30rem;
+     right: 0;     
+     left: 5rem;
+  }
+
+  #your {
+    font-size: 2rem;
+  }
+
+  #your2 {
+    font-size: 1.5rem;
+  }
+
+  .container-2{
+    height: 120rem;
+  }
+
+  #adf{
+    width: 40rem;
+ }
+
+ .four{
+    top: 65rem;
+    left: 5rem;
+    right: 0;
+ }
+
+ .five{
+    top: 10rem;
+    width: 30rem;
+    left: 5rem;
+    right: 0;
+ }
+ 
+ #join{
+    font-size: 2rem;
+    margin-left: 0;
+ }
+
+ #pay {
+    width: 1rem;
+ }
+
+ th {
+    font-size: 1.5rem;
+ }
+
+ td {
+    font-size: 1rem;
+ }
+
+ .plus img {
+    width: 1.5rem;
+ }
+
+ #copy {
+   display: none;
+ }
+
+ footer {
+  height: 45rem;
+ }
+
+}
